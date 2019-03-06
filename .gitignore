@@ -4,12 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-
-
-
-
+# Build results
+[Dd]ebug/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+*.exe
 *.mp3
 *.wav
